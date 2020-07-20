@@ -1,0 +1,14 @@
+{
+  "extends": "jubic-typescript",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "camelcase": [0, {"properties": "never"}],
+  },
+  "globals": {
+    "fetch": false,
+    "FormData": false,
+    "Audio": false
+  }
+}
