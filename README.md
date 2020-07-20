@@ -24,5 +24,5 @@ Application opens (by default) to port 8080 so by going to `http://localhost:808
 ## Images:
 
 ![Sound Manager](https://i.imgur.com/0ByIWs8.png)
-![Connections](https://i.imgur.com/36DMmSL.png)
+
 ![Home](https://sun1-83.userapi.com/ldiXDd-VfjqRvEJZ9-WEJZTI8nLo5cdY_E_E9g/Vgw0rzXz_20.jpg)
