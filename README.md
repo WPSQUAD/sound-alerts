@@ -1,6 +1,6 @@
-# Twitch Play Sounds
+# Sound Alerts
 
-Twitch play sounds is a twitch-chatbot, that allows streamer to easily add and remove commands which plays certain sound effect to stream. 
+Sound Alerts - это чат-робот, который позволяет стримеру легко добавлять и удалять команды, которые воспроизводят определенный звуковой эффект для потоковой передачи.
 
 ## Requirements:
 
@@ -25,4 +25,4 @@ Application opens (by default) to port 8080 so by going to `http://localhost:808
 
 ![Sound Manager](https://i.imgur.com/0ByIWs8.png)
 ![Connections](https://i.imgur.com/36DMmSL.png)
-![Home](https://i.imgur.com/fJD9RjM.png)
+![Home](https://sun1-83.userapi.com/ldiXDd-VfjqRvEJZ9-WEJZTI8nLo5cdY_E_E9g/Vgw0rzXz_20.jpg)
